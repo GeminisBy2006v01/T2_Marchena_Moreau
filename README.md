@@ -16,3 +16,13 @@
 
 \- Tema 3: Control de versiones con Git y GitHub
 
+
+
+\-------------------------------------------
+
+\## Control de cambios
+
+
+
+Se realizaron modificaciones en README.md y pom.xml, y se creo el archivo observaciones.txt para practicar el uso del Working Directory y el Staging Area.
+

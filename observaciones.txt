@@ -1,0 +1,1 @@
+La evaluacion T2 permite practicar los comandos basicos de Git.
