@@ -14,7 +14,7 @@
 
 \- Evaluación 02 del curso Lenguaje de Programación II
 
-\- Tema 3: Control de versiones con Git y GitHub
+\- Control de versiones con Git y GitHub
 
 
 
@@ -25,4 +25,16 @@
 
 
 Se realizaron modificaciones en README.md y pom.xml, y se creo el archivo observaciones.txt para practicar el uso del Working Directory y el Staging Area.
+
+\-------------------------------------------
+
+
+
+\## Gestión de ramas
+
+
+
+\- Rama utilizada: feature-marchena
+
+\- Cambio realizado: se creó la clase ControlVersion\_Marchena.java en src/main/java, que muestra en consola un mensaje identificando al estudiante y señalando que fue desarrollada desde una rama independiente.
 
